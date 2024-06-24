@@ -157,7 +157,7 @@
   },
   "dependencies": {
     "@jridgewell/trace-mapping": "^0.3.25",
-    "@types/which": "^3.0.3",
+    "@types/which": "^3.0.4",
     "@typescript-eslint/typescript-estree": "^7.11.0",
     "acorn-loose": "^8.4.0",
     "ansi-colors": "^4.1.3",
